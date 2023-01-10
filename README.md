@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kulsgam
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning to read
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me : don't....
 
